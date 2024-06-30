@@ -1,4 +1,4 @@
-## Hi there, 👋
+## Hi there 👋
 
 I'm Tiago Mota, a recent computer engineering graduate. Here's a glimpse of my tech stack:
 
