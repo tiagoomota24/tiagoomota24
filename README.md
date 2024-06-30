@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, 👋
 
-I'm Tiago Mota, a passionate Software Developer Student. Here's a glimpse of my tech stack:
+I'm Tiago Mota, a recent computer engineering graduate. Here's a glimpse of my tech stack:
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
